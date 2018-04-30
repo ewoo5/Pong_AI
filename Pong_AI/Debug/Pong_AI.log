@@ -1,0 +1,19 @@
+﻿  pong.cpp
+c:\users\euhon\documents\ece448\pong_ai\pong_ai\pong.cpp(36): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\euhon\documents\ece448\pong_ai\pong_ai\pong.cpp(37): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\euhon\documents\ece448\pong_ai\pong_ai\pong.cpp(38): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\euhon\documents\ece448\pong_ai\pong_ai\pong.cpp(39): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\euhon\documents\ece448\pong_ai\pong_ai\pong.cpp(52): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\euhon\documents\ece448\pong_ai\pong_ai\pong.cpp(53): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\euhon\documents\ece448\pong_ai\pong_ai\pong.cpp(54): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\euhon\documents\ece448\pong_ai\pong_ai\pong.cpp(55): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\euhon\documents\ece448\pong_ai\pong_ai\pong.cpp(95): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\euhon\documents\ece448\pong_ai\pong_ai\pong.cpp(96): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\euhon\documents\ece448\pong_ai\pong_ai\pong.cpp(97): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\euhon\documents\ece448\pong_ai\pong_ai\pong.cpp(98): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\euhon\documents\ece448\pong_ai\pong_ai\pong.cpp(111): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\euhon\documents\ece448\pong_ai\pong_ai\pong.cpp(112): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\euhon\documents\ece448\pong_ai\pong_ai\pong.cpp(113): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\euhon\documents\ece448\pong_ai\pong_ai\pong.cpp(114): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\euhon\documents\ece448\pong_ai\pong_ai\pong.cpp(157): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Pong_AI.vcxproj -> C:\Users\euhon\Documents\ECE448\Pong_AI\Debug\Pong_AI.exe
